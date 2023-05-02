@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Crypto-site-project/static/css/main.abd64e84.css",
+    "main.js": "/Crypto-site-project/static/js/main.57b30dfa.js",
+    "static/media/btcm.png": "/Crypto-site-project/static/media/btcm.3ed277d16e2d7dd66732.png",
+    "index.html": "/Crypto-site-project/index.html",
+    "main.abd64e84.css.map": "/Crypto-site-project/static/css/main.abd64e84.css.map",
+    "main.57b30dfa.js.map": "/Crypto-site-project/static/js/main.57b30dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.57b30dfa.js"
+  ]
+}
